@@ -8,6 +8,9 @@ q1:
 
 q2:
 
+![image](https://user-images.githubusercontent.com/20986238/156239031-48a186ab-c7e0-4313-8851-591d7b52636c.png)
+
+
 
 
 
