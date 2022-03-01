@@ -5,6 +5,9 @@ q1:
 
 q2:
 
+![image](https://user-images.githubusercontent.com/20986238/156230994-cdff9069-4ac4-4283-87e6-4db03b75db38.png)
+
+
 
 q3:
 
